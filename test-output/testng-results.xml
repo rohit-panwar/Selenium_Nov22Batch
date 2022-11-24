@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-24T16:52:31 IST" name="Default suite" finished-at="2022-11-24T16:53:58 IST" duration-ms="86795">
+    <groups>
+    </groups>
+    <test started-at="2022-11-24T16:52:31 IST" name="Default test" finished-at="2022-11-24T16:53:58 IST" duration-ms="86795">
+      <class name="basicOperatins.BrowserOpen">
+        <test-method signature="openChrome()[pri:0, instance:basicOperatins.BrowserOpen@741a8937]" started-at="2022-11-24T16:52:31 IST" name="openChrome" finished-at="2022-11-24T16:52:57 IST" duration-ms="25507" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openChrome -->
+        <test-method signature="openEdge()[pri:0, instance:basicOperatins.BrowserOpen@741a8937]" started-at="2022-11-24T16:52:57 IST" name="openEdge" finished-at="2022-11-24T16:53:14 IST" duration-ms="17418" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openEdge -->
+        <test-method signature="openFirefox()[pri:0, instance:basicOperatins.BrowserOpen@741a8937]" started-at="2022-11-24T16:53:14 IST" name="openFirefox" finished-at="2022-11-24T16:53:44 IST" duration-ms="29778" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openFirefox -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:basicOperatins.BrowserOpen@741a8937]" started-at="2022-11-24T16:53:44 IST" name="tearDown" finished-at="2022-11-24T16:53:58 IST" duration-ms="13853" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- basicOperatins.BrowserOpen -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
