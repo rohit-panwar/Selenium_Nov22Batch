@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="basicOperatins.BrowserOpen">
+      <class name="basicOperatins.LocatorClass">
         <methods>
-          <include name="openChrome"/>
+          <include name="tagName"/>
         </methods>
-      </class> <!-- basicOperatins.BrowserOpen -->
+      </class> <!-- basicOperatins.LocatorClass -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
