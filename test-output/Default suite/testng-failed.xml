@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="basicOperatins.LocatorClass">
+      <class name="basicOperatins.AlertBox">
         <methods>
-          <include name="tagName"/>
+          <include name="alertTest"/>
         </methods>
-      </class> <!-- basicOperatins.LocatorClass -->
+      </class> <!-- basicOperatins.AlertBox -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
