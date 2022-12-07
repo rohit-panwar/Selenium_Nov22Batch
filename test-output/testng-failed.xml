@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="basicOperatins.PropFile">
+      <class name="basicOperatins.JSExecute">
         <methods>
-          <include name="screenShot"/>
+          <include name="JSTest"/>
         </methods>
-      </class> <!-- basicOperatins.PropFile -->
+      </class> <!-- basicOperatins.JSExecute -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
